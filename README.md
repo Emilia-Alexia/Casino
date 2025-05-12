@@ -9,4 +9,4 @@
     Gachapón: Las figuras de cápsula o juguetes de cápsula, también conocidas por la palabra japonesa gashapon o gachapon, son una variedad de máquinas expendedoras que dispensan cápsulas con un producto en su interior, normalmente objetos en miniatura como figuras de acción, juguetes, llaveros y anillos. El comprador debe introducir monedas y girar una manivela hasta que la cápsula cae por la ranura.
 - Autor: Emilia Alexia
 - Licencia: Ninguna
-- Versión 1.1.0
+- Versión 1.1.1
